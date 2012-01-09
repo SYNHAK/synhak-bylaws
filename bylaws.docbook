@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+            "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<book>
+    <title>Bylaws of SYN/HAK</title>
+
+    <chapter>
+        <title>Name</title>
+        <para>The name of this corporation shall be SYN/HAK, alternatively
+        referred to as SYNHAK.</para>
+    </chapter>
+    <chapter>
+        <title>Principal Office</title>
+        <para>The principal office for the transaction of the activities and
+        affairs of this corporation is located at 1456 Riverside Drive,
+        Akron, Ohio. The board of directors may change the location of
+        the principal office. Any such change must be noted by the secretary
+        on these bylaws by amendment.</para>
+        <para>The board may at any time establish branch or subordinate offices
+        at any place or places where this corporation is qualified to
+        conduct its activities.</para>
+    </chapter>
+    <chapter>
+        <title>Purpose</title>
+        <section>
+            <title>Mission</title>
+            <para>SYN/HAK is an infrastructure provider for creative and
+            inventive people, giving them the resources needed to prototype,
+            invent, create, and explore within the fields of electronics,
+            fabrication, software, and art. We exist to foster a
+            collaborative environment wherein interested people and the
+            general public can explore the application of technology as well
+            as technological expressions of artwork through education, individual
+            projects, and social collaboration.</para>
+        </section>
+        <section>
+            <title>Purpose</title>
+            <para>This corporation shall be organized and operated exclusively for
+            charitable, educational, and scientific purposes within the meaning of
+            Section 501 (c)(3) of the Internal Revenue Code, including but not limited to:</para>
+            <itemizedlist>
+                <listitem><para>Through talks, classes, workshops, collaborative
+                projects, and other activities, to encourage research, knowledge
+                exchange, learning, and mentoring in a safe, clean space</para></listitem>
+                <listitem><para>Provide educational spaces for teaching practical skills
+                and theory of technoloyg, science, and art.</para></listitem>
+                <listitem><para>Provide work space, storage, and other resources for projects
+                related to art, science, and technology that iwll benefit the
+                individual members' personal growth in their fields of interest,
+                encouraging the individual members to share their projects and knowledge
+                for the betterment of society through art, science, and technology.</para></listitem>
+                <listitem><para>To create, learn, and teach, individually and as a group,
+                inviting members of the community in the Akron area and the world.</para></listitem>
+                <listitem><para>To develop, support the development of, and provide resources for
+                the development of free and open source software and hardware for the
+                benefit of society.</para></listitem>
+                <listitem><para>Collaboration across disciplines for the benefit of cultural,
+                charitable, and scientific causes.</para></listitem>
+                <listitem><para>To foster, by all legal means, the common purposes
+                of its participants</para></listitem>
+                <listitem><para>To conduct or engage in all lawful activities in furtherance
+                of the stated purposes or those incidental to them.</para></listitem>
+            </itemizedlist>
+        </section>
+        <section>
+            <title>Limitation on Activities</title>
+            <para>The activities of the Corporation shall be performed in
+            service to and with guidance of the community of participants.
+            Notwithstanding any other provisions of these Articles, the Corporation
+            shall not carry on any activities not permitted to be carried on by a
+            corporation exempt from federal income tax under Section
+            501(c)(3) of the Code.</para>
+        </section>
+    </chapter>
+    <chapter>
+        <title>Dedication of Assets</title>
+        <para>This corporation's assets are irrevocably dedicated to public benefit
+        purposes. No part of the net earnings, properties, or assets of the
+        corporation, on dissolution or otherwise, shall inure to the benefit of
+        any privat eperson or individual, or to any director or officer of the
+        corporation. On liquidation or dissolution, all properties and assets
+        remaining after payment, or provision for payment, of all debts and liabilities
+        of the corporation shall be distributed to a nonprofit fund, foundation,
+        or corporation that is organized and operated exclusively for charitable
+        purposes and that has established its exempt status under Internal Revenue
+        Code section 501 (c)(3).</para>
+    </chapter>
+    <chapter>
+        <title>Membership Organizational Structure</title>
+        <section>
+            <title>Membership Qualifications</title>
+            <!-- TODO: Define how people become members -->
+        </section>
+        <section>
+            <title>Rights of Membership</title>
+            <!-- Voting rights, what members can vote for vs directors, etc -->
+        </section>
+        <section>
+            <title>Members' Dues, Fees, and Assesments</title>
+            <para>Each member must pay, within the time and on the conditions
+            set by the board, the dues, fees, and assessments in amounts to
+            be fixed from time to time by the board.</para>
+        </section>
+        <section>
+            <title>Members in Good Standing</title>
+            <para>Members who have paid the required dues, fees, and assessments in
+            accordance with these bylaws and who are not suspended shall
+            be members in good standing</para>
+        </section>
+        <section>
+            <title>Termination of Membership</title>
+            <!-- TODO: How people end their membership, or have it revoked by
+                 vote -->
+        </section>
+        <section>
+            <title>Suspension of Membership</title>
+            <!-- How people become tempbanned -->
+        </section>
+        <section>
+            <title>Non Transferability of Memberships</title>
+            <para>No membership or right arising from membership shall be transferred.
+            All membership rights cease on the member's death or incapacity</para>
+        </section>
+        <section>
+            <title>Meetings</title>
+            <!-- TODO: What kind of meetings, when they meet, what is decided at
+                 them -->
+            <!-- TODO: general, and special meetings -->
+        </section>
+        <section>
+            <title>Voting</title>
+            <!-- TODO: procedures for voting (range voting) -->
+        </section>
+        <section>
+            <title>Proxies</title>
+            <!-- TODO: How people can proxy their powers and/or membership
+                 rights -->
+        </section>
+    </chapter>
+    <chapter>
+        <title>Board of Directors</title>
+        <section>
+            <title>Powers</title>
+            <para>All corporate powers, property, and affairs of this Corporation
+            shall be vested in, excercised, controlled, and managed by the Board
+            of Directors.
+            </para>
+        </section>
+        <section>
+            <title>Number of and Qualifications for Directors</title>
+            <para>The Board of Directors shall be composed of not less than four (4)
+            nor more than ten (10) members of this organization who are in good standing.</para>
+        </section>
+        <section>
+            <title>Vacancies</title>
+            <!-- Define what causes a vacancy -->
+            <!-- Define how one might resign, or be removed -->
+            <!-- TODO: Can't resign, leaving us without any directors or means
+                 to get more -->
+        </section>
+        <section>
+            <title>Meetings</title>
+            <!-- When does the board meet, what gets discussed -->
+        </section>
+    </chapter>
+    <chapter>
+        <title>Officers of the Corporation</title>
+        <section>
+            <title>Offices Held</title>
+            <para>The officers of this corporation shall be a number of champions, a secretary,
+            and a chief financial officer. The corporation, at the board's discretion, may also
+            have a chairman of the board, one or more assistant secretaries, one or more assistant
+            treasurers, and such other offices as may be appointed under section #FIXME# of these
+            bylaws.</para>
+            <para>The number of champions in this corporation shall not be less than two (2),
+            and not more than four (4).</para>
+        </section>
+        <section>
+            <title>Election of the Officers</title>
+            <!-- TODO -->
+        </section>
+        <section>
+            <title>Appointment of the Officers</title>
+            <!-- TODO -->
+        </section>
+        <section>
+            <title>Removal of Officers</title>
+            <para>Without prejudice to the rights of any officer under an
+            employment contract, the board may remove any officer with or
+            without cause. An officer who was not chosen by the board may be
+            removed by any other officer on whom the board confers the power
+            of removal.</para>
+        </section>
+        <section>
+            <title>Resignation of Officers</title>
+            <para>Any officer may resign at any time by giving written notice
+            to the board. The resignation shall take effect on the date the
+            notice is received or at any later time specified in the notice.
+            Unless otherwise specified in the notice, the resignation need not
+            be accepted to be effective. Any resignation shall be without
+            prejudice to any rights of the corporation under any contract to
+            which the officer is a party.</para>
+        </section>
+        <section>
+            <title>Responsibilities of the Officers</title>
+            <section>
+                <title>Champion</title>
+                <para>The Champions of this Corporation shall be the general
+                managers of the corporation and shall supervise, direct, and
+                control the Corporation's activities, affairs, and lesser officers.
+                Additionally, Champions shall supervise and direct each other in
+                a manner consistent with this corporation's purpose.</para>
+                <para>Each Champion shall recieve a full vote on the board of directors</para>
+            </section>
+            <section>
+                <title>Secretary</title>
+                <para>The Secretary shall keep or cause to be kept, at the corporation's
+                principal office or other such place as the board may direct, a book of
+                minutes of all meetings, proceedings, and actions of the board, of 
+                committees of the board, and of members' meetings.</para>
+                <para>The Secretary shall keep or cause to be kept, at the principal office,
+                a copy of the articles of incorporation and bylaws, as amended to date</para>
+                <para>The Secretary shall keep the corporate seal, if any, in safe custody and
+                shall have such other powers and perform such other duties
+                as the board or bylaws may require</para>
+                <!-- FIXME: Define our seal -->
+            </section>
+            <section>
+                <title>Chief Financial Officer</title>
+                <!-- FIXME: define the CFO's job -->
+                <!-- Includes making deposits, keeping our ledger, collecting
+                     dues, paying bills, etc -->
+            </section>
+        </section>
+    </chapter>
+    <chapter>
+        <title>Inspection Rights</title>
+        <!-- TODO: Members get full transparency where applicable -->
+    </chapter>
+</book>
