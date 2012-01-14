@@ -155,7 +155,33 @@
         </section>
         <section>
             <title>Meetings</title>
-            <!-- When does the board meet, what gets discussed -->
+            <section>
+                <title>Place of Meeting</title>
+                <para>Meetings of the board shall be held at any place within
+                or outside Akron, Ohio that has been designated by resolution
+                of the board or in the notice of the meeting or, if not so
+                designated, at the principal office of the corporation.</para>
+            </section>
+            <section>
+                <title>Annual Meetings</title>
+                <para>The Board of Directors shall meet not less than once per year
+                for the purposes of organization, election of officers, and transaction
+                of business. Notice of this meeting must be communicated to the board
+                and general membership at least five (5) days in advance.</para>
+                <!-- TODO: specify how notice works -->
+                <para>No Annual Meeting shall exclude a member of this corporation
+                who is in good standing from attending.</para>
+            </section>
+            <section>
+                <title>Special Meetings</title>
+                <section>
+                    <title>Authority to call Special Meetings</title>
+                    <para>Special meetings of the board for any purpose may be called
+                    at any time by the chairman of the board, if any, any champion, or vice
+                    president, the secretary, or any two champions.</para>
+                </section>
+                <!-- TODO: notices of meetings -->
+            </section>
         </section>
     </chapter>
     <chapter>
