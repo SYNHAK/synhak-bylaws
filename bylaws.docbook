@@ -84,11 +84,20 @@
         <title>Membership Organizational Structure</title>
         <section>
             <title>Membership Qualifications</title>
-            <!-- TODO: Define how people become members -->
+            <para>This corporation shall have one or more classes of members,
+            determined by the board of directors. Any person dedicated to the purposes
+            of the corporation, having been proposed by a current member in good standing,
+            and having been approved by a vote of the membership, shall be eligible
+            for membership on approval of the membership application by the board
+            and on timely payment of such dues and fees as the board may fix from time to time.
+            </para>
         </section>
         <section>
             <title>Rights of Membership</title>
-            <!-- Voting rights, what members can vote for vs directors, etc -->
+            <para>All members shall have the right to vote, as set forth in these bylaws, on
+            the election of directors, on the disposition of all or substantially all of the
+            corporation's assets, on any merge and its prinicpal terms and any amendment of
+            those terms, and on any election to dissolve the corporation.</para>
         </section>
         <section>
             <title>Members' Dues, Fees, and Assesments</title>
@@ -104,12 +113,32 @@
         </section>
         <section>
             <title>Termination of Membership</title>
-            <!-- TODO: How people end their membership, or have it revoked by
-                 vote -->
+            <para>A membership shall terminate on any occurance of the following events:</para>
+            <itemizedlist>
+                <listitem><para>Resignation of the member</para></listitem>
+                <listitem><para>Expiration of the period of membership, unless 
+                the membership is renewed on the renewal terms fixed by the board</para></listitem>
+                <listitem><para>The member's failure to pay dues, fees, or assessments as set by the
+                board within 30 days after they are due and payable</para></listitem>
+                <listitem><para>Any event that renders the member ineligible for membership, or failure to
+                statisfy membership qualifications; or</para></listitem>
+                <listitem><para>Termination of membership under section ##FIXME## of these
+                bylaws based on the good faith determination by the board, or a committee
+                or person authorized by the board to make such a determination, that the
+                member has failed in a material and serious degree to observe the rules of conduct
+                of the corporation, or has engaged in conduct materially and seriously
+                prejudicial to the corporation's purposes and interests.</para></listitem>
+            </itemizedlist>
         </section>
         <section>
             <title>Suspension of Membership</title>
-            <!-- How people become tempbanned -->
+            <para>A member may be suspended, under Section ##FIXME## of these bylaws, based
+            on the good faith determination by the board, or a committee or person
+            authorized by the board to make such a determination, that the member has failed
+            in a serious degree to observe the corporation's rules of conduct, or has engaged
+            in conduct materially and seriously prejudicial to the corporation's purposes
+            and interests. A person whose membership is suspended shall not be a member during
+            the period of suspension.</para>
         </section>
         <section>
             <title>Non Transferability of Memberships</title>
@@ -148,10 +177,92 @@
         </section>
         <section>
             <title>Vacancies</title>
-            <!-- Define what causes a vacancy -->
-            <!-- Define how one might resign, or be removed -->
-            <!-- TODO: Can't resign, leaving us without any directors or means
-                 to get more -->
+            <section>
+                <title>Events causing vacancies on Board</title>
+                <para>A vacancy on the board of directors may be caused through any
+                occurance of the following events:</para>
+                <itemizedlist>
+                    <listitem><para>The death, removal, or resignation of any director</para></listitem>
+                    <listitem><para>The declaration by resolution of the board of a
+                    vacancy in the office of a director who has been convicted of a felony, or
+                    declared of unsound mind by a court order</para></listitem>
+                    <listitem><para>The vote of the members, or if the corporation has fewer than
+                    50 members, the vote of a majority of all members, to remove the director(s)</para></listitem>
+                    <listitem><para>The increase of the authorized number of directors; or</para></listitem>
+                    <listitem><para>The failure of the members, at any meeting of members at which
+                    any director or directors are to be elected, to elect the number of directors
+                    required to be elected at such meeting</para></listitem>
+                </itemizedlist>
+            </section>
+            <section>
+                <title>Resignation of directors</title>
+                <para>Except as provided below, any director may resign by giving written notice
+                to the chairman of the board, if any, or to a champion, or the secretary. The resignation
+                shall be effective when the notice is given unless it specifies a later time for the
+                resignation to become effective. If a director's resignation is effective
+                at a later time, the board may elect a successor to take office as of the date
+                when the resignation becomes effective.</para>
+                <para>No director may resign if the corporation would be left without a duly elected
+                director or directors.</para>
+            </section>
+            <section>
+                <title>Removal of Directors</title>
+                <para>Any or all directors may be removed without cause if:</para>
+                <itemizedlist>
+                    <listitem><para>In a corporation with fewer than 50 members, the removal is
+                    approved by a majority of all members.</para></listitem>
+                    <listitem><para>In a corporation with 50 or more members, the 
+                    removal is approved by the members.</para></listitem>
+                </itemizedlist>
+                <para>Any director may be removed with or without cause, by the vote of 
+                the majority of the members of the entire board of directors at a special
+                meeting called for that purpose, or at a regular meeting, provided
+                that notice of the meeting and of the removal questions are given as provided
+                in Section ##FIXME##. Any vacancy caused by the removal of a director
+                shall be filled as provided in section ##FIXME##</para>
+                <para>Any director who does not attend three successive board meetings will
+                be automatically removed from the board without board resolution unless:</para>
+                <itemizedlist>
+                    <listitem><para>The director requests a leave of absense for a limited
+                    period of time, and the leave is approved by the directors at
+                    a regular of special meeting (if such leave is granted, the number
+                    of board members will be reduced by one in determining whether a
+                    quorum or not is present)</para></listitem>
+                    <listitem><para>The director suffers from an illness or disability that
+                    prevents him or her from attending meetings and the board by rresolution
+                    waives the automatic, removal procedure of this subsection, or</para></listitem>
+                    <listitem><para>The board by resolution of the majority of board
+                    members must agree before a director who has missed three meetings
+                    may be reinstated.</para></listitem>
+                </itemizedlist>
+            </section>
+            <section>
+                <title>Filling vacancies</title>
+                <section>
+                    <title>Vacancies filled by Board</title>
+                    <para>Except for a vacancy created by the removal of a director by the
+                    members, vacancies on the board may be filled by approval
+                    of the board or, if the number of directors then in office is
+                    less than a quorum, by</para>
+                    <itemizedlist>
+                        <listitem><para>The unanimous written consent of the directors then in office</para></listitem>
+                        <listitem><para>The affirmative vote of a majority of the directors then
+                        in office at a meeting held according to notice or waivers of notice complying with
+                        Section ##FIXME##, or</para></listitem>
+                        <listitem><para>a sole remaining director</para></listitem>
+                    </itemizedlist>
+                </section>
+                <section>
+                    <title>Vacancies filled by members</title>
+                    <para>The members may elect a director or directors at any tiem to fill any vacancy
+                    or vacancies not filled by the diretors.</para>
+                </section>
+            </section>
+            <section>
+                <title>No vacancy on reduction of number of directors</title>
+                <para>Any reduction of the authorized number of directors shall not result in
+                any director's being removed from before his or her term of office expires.</para>
+            </section>
         </section>
         <section>
             <title>Meetings</title>
@@ -198,11 +309,16 @@
         </section>
         <section>
             <title>Election of the Officers</title>
-            <!-- TODO -->
+            <para>The officers of this corporation, except any appointed under section ##FIXME##
+            by these bylaws, shall be elected annually by the members and shall serve at the pleasure
+            of the board, subject to the rights of any officer under any employment contract</para>
         </section>
         <section>
             <title>Appointment of the Officers</title>
-            <!-- TODO -->
+            <para>The board may appoint and authorize the chairman of the board, a champion,
+            or another officer to appoint any other officers that the corporation may require.
+            Each appointed officer shall have the title and authority, hold office for the period,
+            and perform the duties specified in the bylaws or established by the board.</para>
         </section>
         <section>
             <title>Removal of Officers</title>
@@ -221,6 +337,33 @@
             be accepted to be effective. Any resignation shall be without
             prejudice to any rights of the corporation under any contract to
             which the officer is a party.</para>
+        </section>
+        <section>
+            <title>Meetings of the Officers</title>
+            <section>
+                <title>Regular Meetings</title>
+                <para>The officers of this corporation shall meet not less than once
+                per month</para>
+                <para>Meetings of the officers of the corporation shall be held at
+                such times as the officers may, by resolution from time to time, determine.
+                Notice of this meeting must be communicated to the general membership at least
+                three (3) days in advance.</para>
+                <para>No Regular Meeting shall exclude a member of this corporation
+                who is in good standing from attending.</para>
+            </section>
+            <section>
+                <title>Special Meetings</title>
+                <para>Special meetings of the officers may be called by any officer. Notice
+                of this meeting must be communicated to the officers at least two (2) days
+                in advance.</para>
+            </section>
+            <section>
+                <title>Quorum</title>
+                <para>The presence of all officers shall constitute a quorum. Every act or
+                decision done or made by a majority of the officers present at a meeting
+                duly held at a quorum is present shall be regarded as the act
+                of the officers.</para>
+            </section>
         </section>
         <section>
             <title>Responsibilities of the Officers</title>
@@ -256,6 +399,39 @@
     </chapter>
     <chapter>
         <title>Inspection Rights</title>
-        <!-- TODO: Members get full transparency where applicable -->
+        <section>
+            <title>Membership Records</title>
+            <para>Unless the corporation provides a reasonable alternative as
+            provided below, any member may do either or both of the following
+            for a purpose reasonably related to the member's interest as a member:</para>
+            <itemizedlist>
+                <listitem><para>Inspect and copy the records containing members'
+                names, addresses, and voting rights during usual business hours
+                on five days' prior written demand on the corporation, which
+                must state the purpose for which the inspection rights are requested; or
+                </para></listitem>
+                <listitem><para>Obtain from the secretary of the corporation, on
+                written demand and tender of a reasonable charge, a list of names,
+                addresses, and voting rights of members who are entitled to vote
+                for directors as of the most recent record date for which that
+                list has been compiled, or as of the date, after the date of
+                demand, specified by the member. The demand shall state the purpose
+                for which the list is requested. The secretary shall make this
+                list available to the member on or before the later of ten
+                days after the demand is received or the date specified in the
+                demand as the date as of which the list is to be compiled.
+                </para></listitem>
+            </itemizedlist>
+            <para>The corporation may, within ten business days after receiving a demand under this Section, make a written offer of an alternative method of reasonable and timely achievement of the proper purpose specified in the demand without providing access to or a copy of the membership list. Any rejection of this offer must be in writing and must state the reasons the proposed alternative does not meet the proper purpose of the demand.</para>
+            <para>If the corporation reasonably believes that the information will be used for a purpose other than one reasonably related to a person's interest as a member, or if it provides a reasonable alternative under this Section, it may deny the member access to the membership list. Any inspection and copying under this Section may be made in person or by the member's agent or attorney. The right of inspection includes the right to copy and make extracts. This right of inspection extends to the records of any subsidiary of the corporation.</para>
+        </section>
+        <section>
+            <title>Accounting records and minutes</title>
+            <para>On written demand on the corporation, any member may inspect, copy, and make extracts of the accounting books and records and the minutes of the proceedings of the members, the board of directors, and committees of the board at any reasonable time for a purpose reasonably related to the member's interest as a member. Any such inspection and copying may be made in person or by the member's agent or attorney. This right of inspection extends to the records of any subsidiary of the corporation.</para>
+        </section>
+        <section>
+            <title>Maintenance and Inspection of Articles and Bylaws</title>
+            <para>This corporation shall keep at its principal California office the original or a copy of the articles of incorporation and bylaws, as amended to the current date, which shall be open to inspection by the members at all reasonable times during office hours. If the corporation has no business office in California, the secretary shall, on the written request of any member, furnish to that member a copy of the articles of incorporation and bylaws, as amended to the current date.</para>
+        </section>
     </chapter>
 </book>
