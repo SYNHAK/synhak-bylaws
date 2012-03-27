@@ -149,16 +149,6 @@
             <title>Termination or Suspension of Membership - Procedure</title>
             <para></para>
         </section>
-        <section>
-            <title>Meetings</title>
-            <!-- TODO: What kind of meetings, when they meet, what is decided at
-                 them -->
-            <!-- TODO: general, and special meetings -->
-        </section>
-        <section>
-            <title>Voting</title>
-            <!-- TODO: procedures for voting (range voting) -->
-        </section>
     </chapter>
     <chapter>
         <title>Board of Directors</title>
@@ -217,8 +207,8 @@
                 the majority of the members of the entire board of directors at a special
                 meeting called for that purpose, or at a regular meeting, provided
                 that notice of the meeting and of the removal questions are given as provided
-                in Section ##FIXME##. Any vacancy caused by the removal of a director
-                shall be filled as provided in section ##FIXME##</para>
+                in <xref linkend="board-meetings"/>. Any vacancy caused by the removal of a director
+                shall be filled as provided in section <xref linkend="board-meetings"/></para>
                 <para>Any director who does not attend three successive board meetings will
                 be automatically removed from the board without board resolution unless:</para>
                 <itemizedlist>
@@ -246,8 +236,7 @@
                     <itemizedlist>
                         <listitem><para>The unanimous written consent of the directors then in office</para></listitem>
                         <listitem><para>The affirmative vote of a majority of the directors then
-                        in office at a meeting held according to notice or waivers of notice complying with
-                        Section ##FIXME##, or</para></listitem>
+                        in office at a meeting held according to notice or waivers of notice.</para></listitem>
                         <listitem><para>a sole remaining director</para></listitem>
                     </itemizedlist>
                 </section>
@@ -263,7 +252,7 @@
                 any director's being removed from before his or her term of office expires.</para>
             </section>
         </section>
-        <section>
+        <section id="board-meetings">
             <title>Meetings</title>
             <section>
                 <title>Place of Meeting</title>
