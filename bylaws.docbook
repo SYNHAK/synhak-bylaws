@@ -373,13 +373,12 @@
                 <para>The Secretary shall keep the corporate seal, if any, in safe custody and
                 shall have such other powers and perform such other duties
                 as the board or bylaws may require</para>
-                <!-- FIXME: Define our seal -->
             </section>
             <section>
                 <title>Chief Financial Officer</title>
-                <!-- FIXME: define the CFO's job -->
-                <!-- Includes making deposits, keeping our ledger, collecting
-                     dues, paying bills, etc -->
+                <para>The office of Treasurer shall be responsible for managing
+                financial assets and liabilities and collecting membership dues,
+                donations, and other revenue.</para>
             </section>
         </section>
     </chapter>
