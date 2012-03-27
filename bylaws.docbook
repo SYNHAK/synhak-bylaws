@@ -419,4 +419,39 @@
             <para>This corporation shall keep at its principal California office the original or a copy of the articles of incorporation and bylaws, as amended to the current date, which shall be open to inspection by the members at all reasonable times during office hours. If the corporation has no business office in California, the secretary shall, on the written request of any member, furnish to that member a copy of the articles of incorporation and bylaws, as amended to the current date.</para>
         </section>
     </chapter>
+    <chapter>
+        <title>Interested Persons</title>
+        <section>
+            <title>Limitations on Interested Persons</title>
+            <para>At all times, not more than 49% of officers in the Board of Directors
+            may be Interested Persons. An Interested Person is defiend as:</para>
+            <itemizedlist>
+                <listitem><para>Any member currently being compensated by the
+                organization for services rendered to it within the previous twelve months,
+                wheather as a full-time or part-time employee, independent contractor, or otherwise, exluding
+                any reasonable compenstation paid to a director in his or her capacity
+                in the Board of Directors; Or</para></listitem>
+                <listitem><para>Any brother, sister, ancestor, descendant, spouse, brother-in-law,
+                sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any
+                such person.</para></listitem>
+            </itemizedlist>
+        </section>
+        <section>
+            <title>Self dealing transactions</title>
+            <para>Where it is not reasonably practicable to obtain approval of the Board of
+            Directors before entering into a self dealing transaction, the office of the
+            Treasurer or Champion may approve such a transaction under the condition that,
+            at the following meeting of the Board of Directors, a quorum of the Board of Directors
+            determines that the transacction was in the unbiased and best interests of the
+            corporation and that it was not reasonably practical to obtain advance approval by a full
+            quorum of the Board of Directors</para>
+        </section>
+    </chapter>
+    <chapter>
+        <title>Amendments</title>
+        <para>Proposed amendments to these bylaws shall be submitted in physical or electronic
+        writing to the Board of Directors at a meeting of the Board of Directors.
+        A majority vote of the full quorum of officers of the Board of Directors will be
+        required for the amendment to become enacted and effective upon completing the vote.</para>
+    </chapter>
 </book>
