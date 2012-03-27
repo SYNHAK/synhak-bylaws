@@ -122,7 +122,7 @@
                 board within 30 days after they are due and payable</para></listitem>
                 <listitem><para>Any event that renders the member ineligible for membership, or failure to
                 statisfy membership qualifications; or</para></listitem>
-                <listitem><para>Termination of membership under section ##FIXME## of these
+                <listitem><para>Termination of membership under <xref linkend="membership-suspension-procedure"/> of these
                 bylaws based on the good faith determination by the board, or a committee
                 or person authorized by the board to make such a determination, that the
                 member has failed in a material and serious degree to observe the rules of conduct
@@ -132,7 +132,7 @@
         </section>
         <section>
             <title>Suspension of Membership</title>
-            <para>A member may be suspended, under Section ##FIXME## of these bylaws, based
+            <para>A member may be suspended, under <xref linkend="membership-suspension-procedure"/> of these bylaws, based
             on the good faith determination by the board, or a committee or person
             authorized by the board to make such a determination, that the member has failed
             in a serious degree to observe the corporation's rules of conduct, or has engaged
@@ -145,6 +145,10 @@
             <para>No membership or right arising from membership shall be transferred.
             All membership rights cease on the member's death or incapacity</para>
         </section>
+        <section id="membership-suspension-procedure">
+            <title>Termination or Suspension of Membership - Procedure</title>
+            <para></para>
+        </section>
         <section>
             <title>Meetings</title>
             <!-- TODO: What kind of meetings, when they meet, what is decided at
@@ -154,11 +158,6 @@
         <section>
             <title>Voting</title>
             <!-- TODO: procedures for voting (range voting) -->
-        </section>
-        <section>
-            <title>Proxies</title>
-            <!-- TODO: How people can proxy their powers and/or membership
-                 rights -->
         </section>
     </chapter>
     <chapter>
@@ -279,7 +278,6 @@
                 for the purposes of organization, election of officers, and transaction
                 of business. Notice of this meeting must be communicated to the board
                 and general membership at least five (5) days in advance.</para>
-                <!-- TODO: specify how notice works -->
                 <para>No Annual Meeting shall exclude a member of this corporation
                 who is in good standing from attending.</para>
             </section>
@@ -302,18 +300,18 @@
             <para>The officers of this corporation shall be a number of champions, a secretary,
             and a chief financial officer. The corporation, at the board's discretion, may also
             have a chairman of the board, one or more assistant secretaries, one or more assistant
-            treasurers, and such other offices as may be appointed under section #FIXME# of these
+            treasurers, and such other offices as may be appointed under <xref linkend="officer-appointment"/> of these
             bylaws.</para>
             <para>The number of champions in this corporation shall not be less than two (2),
             and not more than four (4).</para>
         </section>
         <section>
             <title>Election of the Officers</title>
-            <para>The officers of this corporation, except any appointed under section ##FIXME##
+            <para>The officers of this corporation, except any appointed under <xref linkend="officer-appointment"/> 
             by these bylaws, shall be elected annually by the members and shall serve at the pleasure
             of the board, subject to the rights of any officer under any employment contract</para>
         </section>
-        <section>
+        <section id="officer-appointment">
             <title>Appointment of the Officers</title>
             <para>The board may appoint and authorize the chairman of the board, a champion,
             or another officer to appoint any other officers that the corporation may require.
