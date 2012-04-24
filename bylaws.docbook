@@ -95,9 +95,9 @@
         <section>
             <title>Rights of Membership</title>
             <para>All members shall have the right to vote, as set forth in these bylaws, on
-            the election of directors, on the disposition of all or substantially all of the
+            the election of directors and officers, on the disposition of all or substantially all of the
             corporation's assets, on any merge and its principal terms and any amendment of
-            those terms, and on any election to dissolve the corporation.</para>
+            those terms, on any proposal of membership, and on any election to dissolve the corporation.</para>
         </section>
         <section>
             <title>Members' Dues, Fees, and Assessments</title>
@@ -197,7 +197,7 @@
                     declared of unsound mind by a court order</para></listitem>
                     <listitem><para>The vote of the members, or if the corporation has fewer than
                     50 members, the vote of a majority of all members, to remove the director(s)</para></listitem>
-                    <listitem><para>The increase of the authorized number of directors; or</para></listitem>
+                    <listitem><para>The increase of the authorized number of directors by membership vote; or</para></listitem>
                     <listitem><para>The failure of the members, at any meeting of members at which
                     any director or directors are to be elected, to elect the number of directors
                     required to be elected at such meeting</para></listitem>
@@ -281,10 +281,10 @@
                 of the board or in the notice of the meeting or, if not so
                 designated, at the principal office of the corporation.</para>
             </section>
-            <section>
+            <section id="annual-meetings">
                 <title>Annual Meetings</title>
                 <para>The Board of Directors shall meet not less than once per year
-                for the purposes of organization, election of officers, and transaction
+                for the purposes of organization, election of board members, and transaction
                 of business. Notice of this meeting must be communicated to the board
                 and general membership at least five (5) days in advance.</para>
                 <para>No Annual Meeting shall exclude a member of this corporation
@@ -296,7 +296,8 @@
                     <title>Authority to call Special Meetings</title>
                     <para>Special meetings of the board for any purpose may be called
                     at any time by the chairman of the board, if any, any champion, or vice
-                    president, the secretary, or any two champions.</para>
+                    president, the secretary, or any two champions. Notice of such meeting
+                    must be given according to <xref linkend="annual-meetings"/>.</para>
                 </section>
             </section>
         </section>
@@ -321,10 +322,11 @@
         </section>
         <section id="officer-appointment">
             <title>Appointment of the Officers</title>
-            <para>The board may appoint and authorize the chairman of the board, a champion,
+            <para>The board may authorize the chairman of the board, a champion,
             or another officer to appoint any other officers that the corporation may require.
             Each appointed officer shall have the title and authority, hold office for the period,
             and perform the duties specified in the bylaws or established by the board.</para>
+            <para>The board may additionally appoint a chairman of the board.</para>
         </section>
         <section>
             <title>Removal of Officers</title>
