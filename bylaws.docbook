@@ -9,7 +9,7 @@
         <para>The name of this corporation shall be SYN/HAK, alternatively
         referred to as SYNHAK.</para>
     </chapter>
-    <chapter>
+    <chapter id="principal-office">
         <title>Principal Office</title>
         <para>The principal office for the transaction of the activities and
         affairs of this corporation is located at 1456 Riverside Drive,
@@ -304,7 +304,7 @@
     </chapter>
     <chapter>
         <title>Officers of the Corporation</title>
-        <section>
+        <section id="offices-held">
             <title>Offices Held</title>
             <para>The officers of this corporation shall be a number of champions, a secretary,
             and a chief financial officer. The corporation, at the board's discretion, may also
@@ -384,7 +384,7 @@
                 a manner consistent with this corporation's purpose.</para>
                 <para>Each Champion shall receive a full vote on the board of directors</para>
             </section>
-            <section>
+            <section id="secretary-duties">
                 <title>Secretary</title>
                 <para>The Secretary shall keep or cause to be kept, at the corporation's
                 principal office or other such place as the board may direct, a book of
@@ -404,7 +404,7 @@
             </section>
         </section>
     </chapter>
-    <chapter>
+    <chapter id="inspection-rights">
         <title>Inspection Rights</title>
         <section>
             <title>Membership Records</title>
@@ -475,5 +475,45 @@
         writing to the Board of Directors at a meeting of the Board of Directors.
         A majority vote of the full quorum of officers of the Board of Directors will be
         required for the amendment to become enacted and effective upon completing the vote.</para>
+    </chapter>
+    <chapter>
+        <title>Amendment 1</title>
+        <para>The following are amendments have been submitted to and approved by the Board of Directors
+        of SYNHAK on February 18th, 2013:</para>
+        <section>
+            <title>Principal Office</title>
+            <para>The principal office as defined by <xref linkend="principal-office" /> of these bylaws shall be
+            21 West North Street, Akron, Ohio.</para>
+        </section>
+        <section>
+            <title>Board Member and Officer Term Durations</title>
+            <para>Terms for Board Members and all officers defined in these bylaws or otherwise
+            appointed under <xref linkend="officer-appointment"/> of these bylaws shall begin on
+            February 28th of the calendar year of election or appointment and end the following calendar
+            year on February 28th.
+            </para>
+        </section>
+        <section>
+            <title>Allotment of Champions</title>
+            <para>The authorized number of champions in this corporation shall
+            be determined by the Board of Directors, but shall not supercede the limits defined in
+            <xref linkend="offices-held" /></para>
+            <para>Any reduction of the authorized number of champions shall not result in any champion's
+            being removed from office before his or her term of office expires.</para>
+        </section>
+        <section>
+            <title>Expansion of Secretary Duties</title>
+            <para>In addition to <xref linkend="secretary-duties"/>, the Secretary's duties are expanded:</para>
+            <para>The Secretary shall be responsible for executing <xref linkend="inspection-rights"/>,
+            including maintaining any records required for its complete execution.</para>
+            <para>The Secretary shall be responsible for distributing any access tokens or proofs of membership
+            that have been determined by the board.</para>
+        </section>
+        <section>
+            <title>Member Privacy</title>
+            <para>Any member records collected will be kept confidential except
+            to execute <xref linkend="inspection-rights"/> or if prior written permission
+            for public release is given by the member.</para>
+        </section>
     </chapter>
 </book>
