@@ -516,4 +516,20 @@
             for public release is given by the member.</para>
         </section>
     </chapter>
+    <chapter>
+      <title>Amendment 2</title>
+      <para>The following are amendments that have been submitted to and approved by the Board of Directors
+        of SYNHAK on April 16th, 2014:</para>
+      <section>
+        <title>Principal Office</title>
+        <para>The principal office as defined by <xref linkend="principal-office" /> of these bylaws shall be
+          48 South Summit Street, Akron, Ohio.</para>
+      </section>
+      <section>
+        <title>Board Meeting Agendas</title>
+        <para>Any notice of a Meeting of the Board of Directors as provided for by <xref linkend="board-meetings" />
+          must be accompanied by an agenda.</para>
+        <para>No business other than that which is included in the published agenda may be considered.</para>
+      </section>
+    </chapter>
 </book>
