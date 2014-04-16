@@ -525,5 +525,11 @@
         <para>The principal office as defined by <xref linkend="principal-office" /> of these bylaws shall be
           48 South Summit Street, Akron, Ohio.</para>
       </section>
+      <section>
+        <title>Board Meeting Agendas</title>
+        <para>Any notice of a Meeting of the Board of Directors as provided for by <xref linkend="board-meetings" />
+          must be accompanied by an agenda.</para>
+        <para>No business other than that which is included in the published agenda may be considered.</para>
+      </section>
     </chapter>
 </book>
