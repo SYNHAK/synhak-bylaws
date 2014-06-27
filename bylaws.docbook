@@ -516,4 +516,27 @@
             for public release is given by the member.</para>
         </section>
     </chapter>
+    <chapter>
+      <title>Amendment 2</title>
+      <para>The following are amendments that have been submitted to and approved by the Board of Directors
+        of SYNHAK on April 16th, 2014:</para>
+      <section>
+        <title>Principal Office</title>
+        <para>The principal office as defined by <xref linkend="principal-office" /> of these bylaws shall be
+          48 South Summit Street, Akron, Ohio.</para>
+      </section>
+      <section>
+        <title>Board Meeting Agendas</title>
+        <para><xref linkend="board-meetings" /> is amended to read as follows:</para>
+        <para>
+          The Board of Directors shall meet not less than once per year for the purposes of organization,
+          election of board members, and transaction of business. Notice of this meeting, and its time,
+          place and agenda thereof must be communicated to the board and general membership at least five
+          (5) days in advance. No business other than that included in the agenda of the meeting shall be considered.
+        </para>
+        <para>
+          No Annual Meeting shall exclude a member of this corporation who is in good standing form attending.
+        </para>
+      </section>
+    </chapter>
 </book>
